@@ -90,11 +90,7 @@ header{
   background-size: cover;
 }
 
-nav{
-  width: 100%;
-  position: fixed;
-  box-shadow: 0 0 10px 0 rgba(0,0,0,.5)
-}
+/*quite nav*/
 
 .nav1{
   background: transparent;
